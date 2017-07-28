@@ -1,1 +1,1 @@
-# python-matplotlib-scaffolding
+# matplotlib-example
